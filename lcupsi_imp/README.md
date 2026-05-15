@@ -78,11 +78,14 @@ Windows PowerShell 下也可以使用：
   -GmpLibrary C:\path\to\libgmp.a
 ```
 
-## 项目说明
-项目名称（project name）：lcupsi
+## 项目声明 Project Statement
 
+本项目的作者及单位：
+The author and affiliation of this project:
+
+```text
+项目名称（Project Name）：lcupsi
 项目作者（Author）：Chao Qi
-
 作者单位（Affiliation）：暨南大学网络空间安全学院（College of Cyber Security, Jinan University）
 
 ## 许可证
