@@ -78,13 +78,6 @@ Windows PowerShell 下也可以使用：
   -GmpLibrary C:\path\to\libgmp.a
 ```
 
-## 清理说明
-
-本次整理已移除历史构建目录、旧实验结果和个人路径相关的实验草稿。后续请不要提交以下内容：
-
-- `build/`、`build_x64/`、`cmake-build-*` 等构建目录。
-- `experiment_results/` 和临时 CSV 结果。
-- 本机下载的工具链、IDE 配置和二进制产物。
 
 ## 许可证
 
